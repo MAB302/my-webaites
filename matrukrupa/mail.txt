@@ -1,0 +1,21 @@
+<table>
+	<tr>
+	<td><label>Your Name: </label>
+	<td><input type="text" placeholder="Enteyr Your Name">
+	</tr>
+	<tr>
+	<td><label>Phone no: </label>
+	<td><input type="number" placeholder="Enter Your Number">
+	</tr>
+	<tr>
+	<td><label> Email: </td>
+	<td><input type="mail" placeholder="Enter Your mail">
+	</tr>
+	<tr>
+	<td><label> write here...</label>
+	<td><input type="textarea">
+	</tr>
+	<tr>
+	<td><td><button href="js/mail.js">submit</button>
+	</tr>  
+	</table>
